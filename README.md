@@ -12,7 +12,7 @@ With passions for spreading computer science education and in affecting change i
 
 In his free time he enjoys traveling, fitness, and  [dancing salsa](https://www.facebook.com/frank.denbow/videos/10101695180286959/) .
 
-He once was on lists:
+## He once was on lists:
 
 *  [20 Awesome People in the New York Tech Scene You Need to Know About](http://www.alleywatch.com/2014/08/20-awesome-people-in-the-new-york-tech-scene-you-need-to-know-about/6/) 
 
@@ -27,7 +27,7 @@ And featured in:
 
 * (BPM Supreme)  [Event Recap: ‘The Future of Music’ Featuring Leaders in Music and Tech](https://news.bpmsupreme.com/event-recap-the-future-of-music-featuring-leaders-in-music-and-tech/) 
 
-Investor in:
+## Investor in:
 *  [Backend Capital](https://www.crunchbase.com/organization/backend-capital#section-investments) 
 *  [Joy With Paper](http://joywithpaper.com/)  (My moms paper art instructional website, if you love me you will sign up)
 * Stealth Community App
@@ -36,7 +36,7 @@ Investor in:
 * Stealth Beverage Brand
 * Stealth Apparel Brand Studio
 
-Currently advising:
+## Currently advising:
 *  [Scout Lab](http://scoutlab.co/)  (Women-led marketing agency ex Airbnb / ex Levi Straus / ex fitmob-> acquired by Classpass)
 *  [WorkWell](http://weworkwell.io/)  (Women-led salary negotiation and job application agency)
 *  [Banquetealo](https://www.banquetealo.com/)  (Women-led catering company for Puerto Rico)
@@ -47,28 +47,15 @@ Currently advising:
 How I Help Startups:
 *  [Helping You Transition To New York](https://bit.ly/frankdnyc) 
 *  [Hiring/Getting Hired In New York](https://bit.ly/frankjob) 
-* Feedback on your product (have seen at least 5,000 pitches, have an encyclopedic knowledge of past startups and their GTM methods)
 *  [Feedback on your deck](http://ripmydeck.com/)  (have reviewed 1000s of decks) for storytelling and strategic updates
-You can hear Frank speak here:
-Tech & Culture February 2020
 
-### An error occurred.
- [Try watching this video on www.youtube.com](http://www.youtube.com/watch?v=LSSRnCXb4nk) , or enable JavaScript if it is disabled in your browser.
-Portfolio Career Podcast with David Nebinski
+## Media
+[Tech&Culture](http://www.youtube.com/watch?v=LSSRnCXb4nk) 
+ 
+[Nasdaq Spotlight: Frank Denbow, Entrepreneur](https://www.facebook.com/watch/?ref=external&v=10156064488902429) 
 
+[Startup Threads: Frank Denbow](https://vimeo.com/33539899)  from  [Mashery](https://vimeo.com/mashery)
 
-[image:D31A31BE-44BB-4009-9FE1-AB4AF20EA199-430-00004D0389C7E383/27418901_10156064525107429_7604615660609470464_n.jpg]
+[Twitter](https://twitter.com/frankdenbow) 
 
-
-[image:34BC6469-6CC3-4537-A965-A51ED05B52F6-430-00004D0389647B97/65645338_10157269352397429_2013392157678764032_n.jpg]  [Nasdaq Spotlight: Frank Denbow, Entrepreneur](https://www.facebook.com/watch/?ref=external&v=10156064488902429) 
- [Nasdaq was Live](https://www.facebook.com/watch/Nasdaq/) ## ·
-Follow
-
-
-
-
-
- [Startup Threads: Frank Denbow](https://vimeo.com/33539899)  from  [Mashery](https://vimeo.com/mashery)  on  [Vimeo](https://vimeo.com/) .
-If you’d like to chat about what you’re working on or practice your pitch, shoot an email (first name dot last name at gmail).
- [Instagram](https://instagram.com/frankdenbow)   [Twitter](https://twitter.com/frankdenbow) 
 Headshots:  [Here](https://www.dropbox.com/sh/fkarq3bu40rz29c/AADg-waCYGp2WBDuwwBHl3eqa?dl=0) 
