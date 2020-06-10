@@ -35,6 +35,7 @@ Investor in:
 * Stealth Street Art App
 * Stealth Beverage Brand
 * Stealth Apparel Brand Studio
+
 Currently advising:
 *  [Scout Lab](http://scoutlab.co/)  (Women-led marketing agency ex Airbnb / ex Levi Straus / ex fitmob-> acquired by Classpass)
 *  [WorkWell](http://weworkwell.io/)  (Women-led salary negotiation and job application agency)
@@ -42,7 +43,8 @@ Currently advising:
 *  [1 Second Everyday](https://1se.co/)  (Creating the story of your life, top ranked app)
 *  [Swagup](http://swagup.com/)  (Automated system for buying and delivering swag packs to your team and customers)
 *  [IMPACT](https://impactnyc.org/)  (Board member of IMPACT conversations about important topics)
-How he can help:
+
+How I Help Startups:
 *  [Helping You Transition To New York](https://bit.ly/frankdnyc) 
 *  [Hiring/Getting Hired In New York](https://bit.ly/frankjob) 
 * Feedback on your product (have seen at least 5,000 pitches, have an encyclopedic knowledge of past startups and their GTM methods)
