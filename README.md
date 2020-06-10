@@ -1,3 +1,5 @@
+## Bio
+
 Frank Denbow is a Christian artist, DJ, dancer, CS (computer scientist) and entrepreneur from New Jersey. He is currently a Startup Advocate at  [Microsoft for Startups](https://aka.ms/mfsmain) , helping lead Microsoft’s engagement with the startup community in the United States. He served on Microsoft’s COVID-19 task force helping serve companies like  [Luminare](http://luminaremed.com/) . Prior he founded  [INK’A](http://inka.io/) , a platform for producing top quality custom apparel for companies and influencers. Frank bootstrapped INK’A into millions in revenue (and felt all the pains as well, read about it  [here](https://inflectioncommunity.com/blog/if-your-dreams-dont-serve-you-let-them-go) ) and enjoys supporting other entrepreneurs in the startup ecosystem.
 
 Born in Harlem, and raised by Jamaican & Guyanese parents in New Jersey, Frank caught the bug for entrepreneurship at an early age, selling cologne on eBay, and began programming in middle school. A graduate of Carnegie Mellon’s Computer Science program, Frank interned as a software developer at Apple before building his own companies. He  [crossed paths with Steve Jobs](https://frankdenbow.com/my-steve-jobs-story/)  a few times and it left a lasting impression.
@@ -44,7 +46,7 @@ And featured in:
 *  [Swagup](http://swagup.com/)  (Automated system for buying and delivering swag packs to your team and customers)
 *  [IMPACT](https://impactnyc.org/)  (Board member of IMPACT conversations about important topics)
 
-How I Help Startups:
+## How I Help Startups:
 *  [Helping You Transition To New York](https://bit.ly/frankdnyc) 
 *  [Hiring/Getting Hired In New York](https://bit.ly/frankjob) 
 *  [Feedback on your deck](http://ripmydeck.com/)  (have reviewed 1000s of decks) for storytelling and strategic updates
